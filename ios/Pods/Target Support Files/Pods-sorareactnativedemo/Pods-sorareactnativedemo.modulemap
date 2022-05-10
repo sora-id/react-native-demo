@@ -1,0 +1,6 @@
+module Pods_sorareactnativedemo {
+  umbrella header "Pods-sorareactnativedemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

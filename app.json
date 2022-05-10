@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "sora-react-native-demo",
+    "slug": "sora-react-native-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.soraid.reactnativedemo"
+    },
+    "scheme": "soraid"
+  }
+}
