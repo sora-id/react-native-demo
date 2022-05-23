@@ -32,6 +32,9 @@ export default function App() {
           showAlert()
         }
       }
+      else if (data.hostname === 'exit') {
+        showAlert()
+      }
     }
   }
 
